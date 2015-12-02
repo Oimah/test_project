@@ -1,3 +1,3 @@
 This is first commit
 
-G is an alphabet
+H is an alphabet
